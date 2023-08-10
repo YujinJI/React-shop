@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.376e9ee2.css",
+    "main.js": "/static/js/main.ca3b5638.js",
+    "static/js/787.3f37af5e.chunk.js": "/static/js/787.3f37af5e.chunk.js",
+    "static/media/discover.svg": "/static/media/discover.65792c8449e0b1b724f3ec6f47c928e2.svg",
+    "static/media/americanExpress.svg": "/static/media/americanExpress.c968f37a0b2096bd47ad3ab85eddc015.svg",
+    "static/media/visa.svg": "/static/media/visa.0552d222a9e05e61d038b48bca547e26.svg",
+    "static/media/paypal.svg": "/static/media/paypal.69a723994e65e65ecff1382b35107ac5.svg",
+    "static/media/dinersClub.svg": "/static/media/dinersClub.d462a9a7100940234ead2bbc1e4ffe60.svg",
+    "index.html": "/index.html",
+    "static/media/mastercard.svg": "/static/media/mastercard.14233a00b7177466bd5ea6d0e21c9f77.svg",
+    "main.376e9ee2.css.map": "/static/css/main.376e9ee2.css.map",
+    "main.ca3b5638.js.map": "/static/js/main.ca3b5638.js.map",
+    "787.3f37af5e.chunk.js.map": "/static/js/787.3f37af5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.376e9ee2.css",
+    "static/js/main.ca3b5638.js"
+  ]
+}
